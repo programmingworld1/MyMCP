@@ -1,2 +1,4 @@
 mcp
 anthropic
+azure-identity
+azure-ai-projects
